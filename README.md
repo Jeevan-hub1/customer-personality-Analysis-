@@ -109,7 +109,8 @@ Cleaned dataset saved as 'cleaned_customer_personality_analysis.csv'
 
 ## Author
 Created as part of a data preprocessing task.  
-Contact: [Your Name/Email, if applicable]
+Contact: PONNALA JEEAVN REDDY , nandakumarponnala@gmail.com 
+
 
 ## License
 This project is for educational purposes and uses the Customer Personality Analysis dataset under its respective Kaggle license.
